@@ -9,14 +9,3 @@ result=pattern.findall(content)
 
 for i in result:
     print(i)
-
-print(len(result))
-
-
-
-
-
-
-
-
-
