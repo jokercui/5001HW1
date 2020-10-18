@@ -2,7 +2,7 @@ This is the first homework of MSDM5001
 
 
 
-For Q2, First, you may need "chmod 777 toberun.sh" command to give it the execute permission
+For Q2, First, you may need "chmod 777 toberun.sh" command to give it the execute permission. 
 then, use ./toberun.sh command to create the directiories and txt files
 
 
